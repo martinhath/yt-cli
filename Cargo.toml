@@ -1,0 +1,9 @@
+[package]
+name = "yt"
+version = "0.1.0"
+authors = ["Martin Hafskjold Thoresen <martinhath@gmail.com>"]
+
+[dependencies]
+reqwest = "*"
+serde = "*"
+serde_json = "*"
