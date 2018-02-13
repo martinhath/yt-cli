@@ -7,3 +7,5 @@ authors = ["Martin Hafskjold Thoresen <martinhath@gmail.com>"]
 reqwest = "*"
 serde = "*"
 serde_json = "*"
+console = "*"
+dialoguer = "*"
